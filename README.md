@@ -52,9 +52,7 @@ src="https://img.shields.io/github/followers/TheMadrasTechie?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheMadrasTechie&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TheMadrasTechie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheMadrasTechie&show_icons=true&locale=en&theme=tokyonight" alt="TheMadrasTechie" /></p>
 
 <a href="http://www.github.com/TheMadrasTechie"><img src="https://github-readme-stats.vercel.app/api?username=TheMadrasTechie&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TheMadrasTechie's GitHub stats" /></a>
 
