@@ -9,7 +9,7 @@ Computer Vision Engineer 💻
 * 🧠  I'm a Computer Vision Engineer  
 * 🤝  I'm open to collaborating on interesting projects  
 * ⚡  Love for Programming  
-* 🌐  Served 40+ clients globally  
+* 🌐  Served 70+ clients globally  
 * 🐳  Proficient in Docker, FastAPI, AWS, and Machine Learning  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheMadrasTechie&label=Profile%20views&color=0e75b6&style=flat" alt="TheMadrasTechie" /> </p>
